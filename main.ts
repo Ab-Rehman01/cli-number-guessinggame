@@ -1,4 +1,5 @@
-!#
+#! /usr/bin/env node
+// shabang
 import inquirer from "inquirer";
 // computer will gen a random number
 // user input for guess
